@@ -1,0 +1,46 @@
+{
+  "parties": {
+    "MHL": {
+      "mandats": 36,
+      "partners": ["PO","TOV", "G", "SHS"]
+    },
+    "PO": {
+      "mandats": 33,
+      "partners": ["MHL", "L", "VDAM", "EMT"]
+    },
+    "VDAM": {
+      "mandats": 15,
+      "partners": ["PO"]
+    },
+    "SHS": {
+      "mandats": 9,
+      "partners": ["MHL", "G", "TOV"]
+    },
+    "G": {
+      "mandats": 7,
+      "partners": ["MHL", "SHS", "TOV"]
+    },
+    "EMT": {
+      "mandats": 7,
+      "partners": ["L", "PO"]
+    },
+    "L": {
+      "mandats": 7,
+      "partners": ["PO", "EMT"]
+    },
+    "TOV": {
+      "mandats": 6,
+      "partners": ["MHL", "G", "SHS"]
+    }
+  },
+  "namesMap": {
+    "MHL": "Likud",
+    "PO": "Kahol Lavan",
+    "VDAM": "Hareshima Hameshutefet",
+    "SHS": "Shas",
+    "G": "Yehadut Hatora",
+    "EMT": "Ha'avoda-Gesher-Meretz",
+    "L": "Israel Biteinu",
+    "TOV": "Yamina"
+  }
+}
